@@ -1,0 +1,77 @@
+{
+  "skills": [
+    {
+      "number": "2",
+      "text": "Возраст начала занятий на скрипке"
+    },
+    {
+      "number": "2",
+      "text": "Концертов отыграл"
+    },
+    {
+      "number": "2",
+      "text": "Максимальное число городов в туре"
+    },
+    {
+      "number": "2",
+      "text": "Лет на сцене в качестве скрипача"
+    }
+  ],
+  "products": [
+    {
+      "src": "./assets/img/products/Work1.jpg",
+      "name": "Вино вдохновение",
+      "price": 600
+    },
+    {
+      "src": "./assets/img/products/Work2.jpg",
+      "name": "Вино вдохновение",
+      "price": 600
+    },
+    {
+      "src": "./assets/img/products/Work3.jpg",
+      "name": "Вино вдохновение",
+      "price": 600
+    },
+    {
+      "src": "./assets/img/products/Work4.jpg",
+      "name": "Вино вдохновение",
+      "price": 600
+    },
+    {
+      "src": "./assets/img/products/Work5.jpg",
+      "name": "Вино вдохновение",
+      "price": 600
+    },
+    {
+      "src": "./assets/img/products/Work6.jpg",
+      "name": "Вино вдохновение",
+      "price": 600
+    },
+    {
+      "src": "./assets/img/products/Work7.jpg",
+      "name": "Вино вдохновение",
+      "price": 600
+    },
+    {
+      "src": "./assets/img/products/Work8.jpg",
+      "name": "Вино вдохновение",
+      "price": 600
+    },
+    {
+      "src": "./assets/img/products/Work9.jpg",
+      "name": "Вино вдохновение",
+      "price": 600
+    },
+    {
+      "src": "assets\\img\\products\\550bc481f9edf418e0156dee9fw2--aksessuary-remen-iz-naturalnoj-kozhi-korichnevyj-zhenskij-muz.jpg",
+      "name": "Ремень",
+      "price": "1000"
+    }
+  ],
+  "user": {
+    "email": "mizikova_y@mail.ru",
+    "salt": "ee652a36b8699c490d7915c103e7e04c",
+    "hash": "41047c3e8a2a27d68d1e0e4828e0d70f60d375e03265230f5b120feba5e603e8bdbc180aa0980a4dfcddf853b4fd086eadcede0cc47680f7224c07f68775013cb8ed303db3ac9d3eadf4a8821279c595fbd2d387ad8c6fa9b77ae62ffc49adf5ed29826c0fdab4662d740db3c4d74e7eb5babc866d1972547d7e2417a2daa8de6731ee4d421fc7401cde26668918dde741fd4aae8b3ef3c473cb16c2847500541e13b7f6d8d8099353bc766af7c3382f3753f7a432160ee18c817a7e9e3139a5098864088969c1cc878e978f7e119855f4809b6485189451a60c1cfb89d05042088fb2225a38b2e2a26632b6e1bb02264fada5fa1cd5ecd569b9fad7647f8fe677c8ba2557d01c33530c0134876728840e7aa7619a6d964c10285cbc2345fa3260814f37f68b6a0fd43da70e0e98fcfc1d5f9e0275cb51047a1ac18a51d660dd67fd23a4ddaa7897fa7b389543ce56a10d90c4fd1d171c755f328e46572ebb613779d83d0654045b818d5ee73a4c578189db6c6b38573b4575832b918a6a681fa090513d414aecf71dbe0ca94a320b11ef7edb09460ffd71c3c2f945db45b4dcf6b9aff6a7ba151f00774d2ba31da586f99c6e204ab9c65703399df5b1dc915da6bc701784b9b4f37049089c97c07923eb03f48d0e9839384cb3a04410aa919cae9cdf2b1d374fbe76d3aca3014f53a2b42b17956fbe29a0dcf3efeeee8d8b02"
+  }
+}
