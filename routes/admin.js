@@ -96,10 +96,10 @@ res.redirect('/admin')
  router.post('/upload', (req, res, next) => {
  
    const form = new formidable.IncomingForm()
-  const upload = path.join('./public', 'assets', 'img', 'products')
+   const upload = path.join('./uploads', 'assets', 'img', 'products')
 
   if (!fs.existsSync(upload)) {
-    fs.mkdirSync(upload)
+    fs.mkdirSync(upload, { recursive: true })
   }
 
   form.uploadDir = path.join(process.cwd(), upload)

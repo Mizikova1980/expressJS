@@ -38,6 +38,8 @@ app.use(express.urlencoded({ extended: false }))
 
 app.use(express.static(path.join(__dirname, 'public')))
 
+app.use(express.static(path.join(__dirname, 'uploads')))
+
 app.use('/', mainRouter)
 
 // catch 404 and forward to error handler
